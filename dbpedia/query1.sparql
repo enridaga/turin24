@@ -1,0 +1,19 @@
+# Query. 1
+# Associate URIs with prefixes
+
+PREFIX foaf: <http://xmlns.com/foaf/0.1/>
+PREFIX dbo: <http://dbpedia.org/ontology/>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+
+# Example of a SELECT query, retrieving 2 variables
+# Variables selected MUST be bound in graph pattern
+
+SELECT ?place ?population
+WHERE {
+
+  #This is our graph pattern
+  ?person rdfs:label "Cab Calloway"@en ;
+          dbo:deathPlace ?place .
+  ?place  dbo:populationTotal ?population 
+}
+
