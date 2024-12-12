@@ -12,3 +12,4 @@
 - [Linked Data Patterns](https://patterns.dataincubator.org/)
 - [Linked Open Vocabularies (LOV)](https://lov.linkeddata.es/dataset/lov/)
 - [Mini project (Colab)](https://colab.research.google.com/drive/1TqnIHjzgiaOF4ttCMf9yuNflW5EndYC-?usp=sharing)
+- [Knowlede extraction (Colab)](https://colab.research.google.com/drive/1dp4mPiQCbHoozv_cO2bq9D7gmbSrONFr?usp=sharing)
