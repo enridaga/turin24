@@ -17,3 +17,4 @@ October
 December
 - [SPARQL Anything + World Literature KG Competency Questions (Colab)](https://colab.research.google.com/drive/1fV4_d1bdUeDuBUT34jov63yFpiXqu0bw?usp=sharing)
 - [Ontology drafting from Competency Questions (Colab)](https://colab.research.google.com/drive/1dp4mPiQCbHoozv_cO2bq9D7gmbSrONFr?usp=sharing)
+- [Test SPARQL Anything query with the Java CLI (Colab)](https://colab.research.google.com/drive/1Cgmke1ePP3mAEX0MBFsLEnaV-toUUdNo?usp=sharing)
