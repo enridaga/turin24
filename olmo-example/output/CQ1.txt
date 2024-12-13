@@ -1,0 +1,14 @@
+<|user|>
+You are an ontology engineer and need to design an ontology. You use Competency Questions to support the ontology design activity. List for me the classes and properties that could answer the following Competency Question: "Which are the works of authors from the same country?". Reply with only the list of classes and properties in a JSON structure.
+<|assistant|>
+Here's a JSON structure that can help answer the given competency question:
+
+{
+  "classes": [
+    {
+      "className": "Country",
+      "classDescription": "A country is a political entity that is recognized under international law as a distinct entity and has its own government and citizens."
+    },
+    {
+      "className": "Artist",
+      "classDescription": "An artist is a person who creates works of art,
